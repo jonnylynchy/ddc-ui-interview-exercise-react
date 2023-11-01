@@ -13,7 +13,7 @@ The goal of this exercise is to request data from a
 series of endpoints in order to render a list of vehicles.
 
 The base url for all requests is:
-https://api.coxauto-interview.com/api
+<https://api.coxauto-interview.com/api>
 
 Steps:
 
@@ -24,7 +24,7 @@ Steps:
 4. Display each vehicle's `year`, `make` and `model` in a list.
 
 To preview endpoint responses, feel free to view the Swagger UI:
-http://api.coxauto-interview.com/swagger/index.html
+<http://api.coxauto-interview.com/swagger/index.html>
 
 ## Optional Stretch Goals (in no particular order)
 
